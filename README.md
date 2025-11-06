@@ -164,15 +164,15 @@ We welcome contributions from developers, researchers, and drone enthusiasts!
 
 - **Email:** [contato.educadrones@gmail.com](mailto:contato.educadrones@gmail.com)
 - **Instagram:** [@educa_drones](https://instagram.com/educa_drones)
-- **Website:** www.educadrones.com.br *(under development)*
+- **Website:** [www.educadrones.com.br](https://www.educadrones.com.br) *(under development)*
 
 ---
 
 ## 📄 License
 
 Our projects use various open-source licenses:
-- **MIT License:** Colibri_CF
-- **Apache 2.0:** DroneAddons3D
+- **MIT License:** [Colibri_CF](https://github.com/EDUCA-DRONES/Colibri_CF/blob/master/LICENSE)
+- **Apache 2.0:** [DroneAddons3D](https://github.com/EDUCA-DRONES/DroneAddons3D/blob/main/LICENSE)
 - Individual repositories may have specific licenses - please check each repository for details
 
 ---
