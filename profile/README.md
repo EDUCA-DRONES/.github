@@ -1,4 +1,4 @@
-## Educa Drones is a brazilian UAV research and development team. We're located at the Federal Institute of education, science and technology, at Guanambi / Bahia.
+## Educa Drones is a brazilian UAV research and development team. We're located at the Federal Institute of Education, Science and Technology, at Guanambi / Bahia.
 
 ### You can find more information on:
 📷 [@educa_drones](https://www.instagram.com/educa_drones/)
